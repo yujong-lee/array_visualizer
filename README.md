@@ -8,4 +8,5 @@ Array Visualizer written in racket/draw. Creating image for blog post or paper.\
 
 ### Version 2 Example
 ![ex_screenshot](/ex_ver2.png)
+<br>
 ![ex_screenshot](/ex_ver2-1.png)
